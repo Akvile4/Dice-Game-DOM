@@ -1,0 +1,68 @@
+.container {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+  /* margin-top: 2rem; */
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+  padding: 20px;
+}
+
+body {
+  background-color: #141E46;
+}
+
+h1 {
+  margin: 10px;
+  font-family: 'Luckiest Guy', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 5rem;
+  color: #FFF5E0;
+}
+
+p {
+  font-size: 2rem;
+  color: #FFF5E0;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+.trophy {
+  height: 200px;
+  width: 200px;
+}
+
+.btn {
+  margin-top: 2rem;
+}
+
+button {
+  font-size: 30px;
+  padding: 14px 40px;
+  border-radius: 12px;
+  border: 2px solid #e70d0d;
+  font-family: 'Indie Flower', cursive;
+  font-weight: bold;
+  background-color: #FFF5E0;
+  color: #BB2525;
+}
+
+button:hover {
+  background-color: #b42a2a; /* Green */
+  color: #FFF5E0;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19)
+}
+
+footer {
+  margin-top: 3%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
